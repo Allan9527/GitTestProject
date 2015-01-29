@@ -2,4 +2,12 @@ sdfassadfasdfas
 
 asdfasfasf
 
+<<<<<<< HEAD
 Mike220 change it. Mock conflict.
+
+Allan-Mao change it.
+
+Allan test
+=======
+Allan-Mao change it.
+>>>>>>> 2c72c4190009ba1702af39db7d1424d0ee3df87b
